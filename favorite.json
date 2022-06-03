@@ -1,0 +1,17 @@
+{
+  "yakiOrShabu": {
+    "path": "/enquetes/yaki-shabu",
+    "firstItem": "焼き肉",
+    "secondItem": "しゃぶしゃぶ"
+  },
+  "riceOrBread": {
+    "path": "/enquetes/rice-bread",
+    "firstItem": "ごはん",
+    "secondItem": "パン"
+  },
+  "sushiOrPizza": {
+    "path": "/enquetes/sushi-pizza",
+    "firstItem": "寿司",
+    "secondItem": "ピザ"
+  }
+}
